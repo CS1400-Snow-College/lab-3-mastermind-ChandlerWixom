@@ -1,4 +1,6 @@
 ﻿// Chandler Wixom, 2/12/2025, Lab 3 Mastermind, CS 1405
+
+Console.Clear();
 Console.WriteLine("In this game a string of 4 letters containing only a - g has been created\nNo letter is repeated twice and the order is completly random\nYou are to guess the order and placement of these letters");
 
 
@@ -21,10 +23,15 @@ Console.ReadKey(true);
 
 Console.WriteLine(egg);
 string playerGuess;
+int guessCount = 0;
 do
 {
 playerGuess = Console.ReadLine();
 if (playerGuess != egg)
     Console.WriteLine("Sorry thats wrong");
+++guessCount;
 }
 while (playerGuess != egg);
+
+Console.WriteLine("You got it!!!");
+Console.WriteLine($"That took you {guessCount} tries");
