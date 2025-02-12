@@ -1,0 +1,15 @@
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\bin\Debug\net9.0\lab-3-mastermind-ChandlerWixom.exe
+C:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\bin\Debug\net9.0\lab-3-mastermind-ChandlerWixom.deps.json
+C:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\bin\Debug\net9.0\lab-3-mastermind-ChandlerWixom.runtimeconfig.json
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\bin\Debug\net9.0\lab-3-mastermind-ChandlerWixom.dll
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\bin\Debug\net9.0\lab-3-mastermind-ChandlerWixom.pdb
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.AssemblyInfoInputs.cache
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.AssemblyInfo.cs
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.csproj.CoreCompileInputs.cache
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.sourcelink.json
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.dll
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\refint\lab-3-mastermind-ChandlerWixom.dll
+c:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.pdb
+C:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\lab-3-mastermind-ChandlerWixom.genruntimeconfig.cache
+C:\Users\Frost\my-code-dir\lab-3-mastermind-ChandlerWixom\obj\Debug\net9.0\ref\lab-3-mastermind-ChandlerWixom.dll
